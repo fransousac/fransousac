@@ -1,8 +1,9 @@
-### Oii, eu sou a Franciele Sousa, desenvolvedora de software em construção💻✨
+### Oii, eu sou a Franciele Sousa, desenvolvedora de software e analista de dados💻✨
 
-- 🌐 JavaScript/React
+- 🌐 Typescript/React
 - 🐍 Python
 - 📊 Análise de Dados
+- 🏦 Banco de Dados 
   
 
 <div style="display: inline_block"><br>
