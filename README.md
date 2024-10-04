@@ -3,7 +3,7 @@
 - 🌐 JavaScript/React
 - 🐍 Python
 - 📊 Análise de Dados
-- 😄 Pronouns: ela/dela
+  
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Fran-Js" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /> 
