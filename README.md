@@ -1,6 +1,8 @@
 ### Oii, eu sou a Franciele Sousa, desenvolvedora de software em construção💻✨
 
-- 🌱Estudando JavaScript/React
+- 🌐 JavaScript/React
+- 🐍 Python
+- 📊 Análise de Dados
 - 😄 Pronouns: ela/dela
 
 <div style="display: inline_block"><br>
